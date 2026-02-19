@@ -3,8 +3,8 @@ name: facts-changed-audit
 description: Systematically review whether facts underlying a current position have changed, warranting a position change.
 license: MIT
 metadata:
+  version: 1.0.3974
   author: sethmblack
-  version: 1.0.3973
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - facts-changed-audit
